@@ -1,5 +1,5 @@
 ---
-name: Chegada dos times e entrega do material
+name:  Encerramento, divulgação dos resultados e premiação
 categories:
   - Cat B
   - Talk

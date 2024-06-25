@@ -1,7 +1,7 @@
 ---
-name: Chegada dos times e entrega do material
+name: Sessão de Aquecimento
 categories:
-  - Cat B
+  - Cat A
   - Talk
 ---
 

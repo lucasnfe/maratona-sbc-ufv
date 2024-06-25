@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img src="/assets/imgs/IMG_0158.jpg" width="1200">
+<img src="{{ '/assets/imgs/IMG_0158.jpg' | relative_url }}" width="1200">

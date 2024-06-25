@@ -1,5 +1,5 @@
 ---
-name: Chegada dos times e entrega do material
+name: Almoço
 categories:
   - Cat B
   - Talk
