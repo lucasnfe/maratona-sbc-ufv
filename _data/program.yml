@@ -5,18 +5,22 @@ days:
   rooms:
     - name: LBI
       talks:
-        - name: Chegada dos times e entrega do material
-          time_start: '09:00'
-          time_end: '09:45'
         - name: Sessão de Aquecimento
           time_start: '10:00'
           time_end: '12:00'
-        - name: Almoço
-          time_start: '12:00'
-          time_end: '14:00'
         - name: Competição
           time_start: '14:00'
           time_end: '19:00'
+    - name: Auditório do CCE
+      talks:
+        - name: Chegada dos times e entrega do material
+          time_start: '09:00'
+          time_end: '09:45'
         - name: Encerramento, divulgação dos resultados e premiação
           time_start: '19:00'
           time_end: '20:30'
+    - name: Restaurantes
+      talks:
+        - name: Almoço
+          time_start: '12:00'
+          time_end: '14:00'

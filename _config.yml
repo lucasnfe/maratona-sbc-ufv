@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Maratona SBC de Programação
-email: your-email@example.com
+email: lucas.n.ferreira@ufv.br
 description: >- # this means to ignore newlines until "baseurl:"
  Seja muito bem-vindo ao site da regional Viçosa da Maratona SBC de Programação 2024, organizada pelo Departamento de Informática da Universidade Federal de Viçosa. Aqui você encontrará informações sobre a competição, a programação, as inscrições, a localização e muito mais.
 baseurl: "/maratona-sbc-ufv" # the subpath of your site, e.g. /blog
@@ -87,7 +87,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Regional Viçosa
+      name: Viçosa
       # img: ''
       url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
@@ -197,4 +197,4 @@ conference:
     time_steps: 30 # in minutes
 
     # Show intermediary time steps (next to full hours)
-    show_alltimes: false
+    show_alltimes: true
