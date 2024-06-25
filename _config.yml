@@ -22,8 +22,8 @@ title: Maratona SBC de Programação
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Seja muito bem-vindo ao site da regional Viçosa da Maratona SBC de Programação 2024, organizada pelo Departamento de Informática da Universidade Federal de Viçosa. Aqui você encontrará informações sobre a competição, a programação, a inscrição, a localização e muito mais.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/maratona-sbc-ufv" # the subpath of your site, e.g. /blog
+url: "https://lucasnfe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
