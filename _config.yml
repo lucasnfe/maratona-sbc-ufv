@@ -157,9 +157,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Prova
         color: info
-      - name: Cat B
+      - name: Logística
         color: success
 
     # Hide icons on talk overview page
