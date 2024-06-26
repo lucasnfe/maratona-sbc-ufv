@@ -89,7 +89,7 @@ conference:
     logo:
       name: Viçosa
       # img: ''
-      url: 'https://digitale-gesellschaft.ch/'
+      # url: ''
     breakpoint: md
     links:
       - name: Sobre
