@@ -174,7 +174,7 @@ pt:
   location:
     rooms: Salas
     directions: Localização
-    talks: Apresentações nesta sala
+    talks: Eventos
     focus_conf: Centralizar o mapa para o local da conferência
     focus_me: Mostrar minha localização atual
   program:

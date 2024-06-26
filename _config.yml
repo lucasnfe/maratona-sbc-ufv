@@ -92,12 +92,16 @@ conference:
       url: 'https://digitale-gesellschaft.ch/'
     breakpoint: md
     links:
+      - name: Sobre
+        relative_url: /about/
       - name: Programação
         relative_url: /program/
       - name: Inscrições
         relative_url: /registration/
       - name: Localização
         relative_url: /location/
+      - name: Contato
+        relative_url: /contact/        
       - name: Edições Anteriores
         menu:
           - name: 2023
