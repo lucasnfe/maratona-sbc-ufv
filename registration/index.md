@@ -11,4 +11,6 @@ A sede mais próxima de cada instituição pode ser consultada no mapa preparado
 
 <img src="{{ '/assets/imgs/mapa.png' | relative_url }}">
 
+[https://maratona.sbc.org.br/voronoi/](https://maratona.sbc.org.br/voronoi/)
+
 Note que a sede de Viçosa atenderá as regiões do leste e do sudeste mineiro e parte da região central, incluindo, entre outras, instituições de ensino da Zona da Mata, do Vale do Aço e do Vale do Rio Doce.
