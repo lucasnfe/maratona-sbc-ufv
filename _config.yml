@@ -98,14 +98,16 @@ conference:
         relative_url: /program/
       - name: Inscrições
         relative_url: /registration/
+      - name: Dicas
+        relative_url: /tips/           
       - name: Localização
         relative_url: /location/
       - name: Contato
-        relative_url: /contact/        
-      - name: Edições Anteriores
-        menu:
-          - name: 2023
-            disabled: true
+        relative_url: /contact/     
+      # - name: Edições Anteriores
+      #   menu:
+      #     - name: 2023
+      #       disabled: true
 
   # Link Preview for Sharing
   link_preview:
